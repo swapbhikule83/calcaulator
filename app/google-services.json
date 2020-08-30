@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "474839645785",
+    "firebase_url": "https://calcultor-701cd.firebaseio.com",
+    "project_id": "calcultor-701cd",
+    "storage_bucket": "calcultor-701cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474839645785:android:2944dc2c903ad6d18d3b48",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474839645785-pqqri14bnshq7afaglclfu498nr5a2gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "3e7345f6c17ec8ef0810871b0cd711a415fd1e7b"
+          }
+        },
+        {
+          "client_id": "474839645785-4s7flrku6b2p72nd20fuli4arn8o1ojv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnKIaDTW34uO8_77F7xmLe5H63W1AthJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474839645785-4s7flrku6b2p72nd20fuli4arn8o1ojv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
